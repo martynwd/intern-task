@@ -1,7 +1,3 @@
-
-
-
-
 def partition(arr, start, end):
 
     if arr[start] > arr[end]:
